@@ -31,7 +31,7 @@
 
 例如：第四章有chapter_4/和chapter_4_data/两个文件夹，前者是源代码，后者是在运行程序时会用的数据文件。
 
-由于数据文件通常比较大，建议读者在用到时候再进行下载，下载地址为：https://pan.baidu.com/s/1i7pKvFf，提取码：1kmf。
+由于数据文件通常比较大，建议读者在用到时候再进行下载，下载地址为：https://pan.baidu.com/s/1i7pKvFf ，提取码：1kmf。
 
 ## 其他链接
 意见反馈邮箱：hzydl21 [at] 163.com

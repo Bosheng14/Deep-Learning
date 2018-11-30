@@ -1,7 +1,7 @@
 # Deep-Learning-21-Examples
 本工程是《21个项目玩转深度学习———基于TensorFlow的实践详解》的配套代码，代码推荐的运行环境为：Ubuntu 14.04，Python 2.7、TensorFlow >= 1.4.0。请尽量使用类UNIX系统和Python 2运行本书的代码。
 
-======
+======  
 欢迎有兴趣的同学猛戳下面的链接购买：
 
 * 京东：https://item.jd.com/12327358.html

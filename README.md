@@ -7,7 +7,7 @@
 * 天猫：https://detail.tmall.com/item.htm?id=566399074299
 * 当当：http://product.dangdang.com/25245282.html
 
-写作这本书的初衷是希望提供一个深度学习实践案例的合集，让每个人都可以在“动手实验”的过程中，比较轻松地掌握深度学习和TensorFlow的使用技巧，并且能完整地做出一些有意思的项目。希望大家能在实践的过程中找到乐趣，如果有任何问题，欢迎通过issues(https://github.com/hzy46/Deep-Learning-21-Examples/issues)提出纠错或改进建议。
+写作这本书的初衷是希望提供一个深度学习实践案例的合集，让每个人都可以在“动手实验”的过程中，比较轻松地掌握深度学习和TensorFlow的使用技巧，并且能完整地做出一些有意思的项目。希望大家能在实践的过程中找到乐趣，如果有任何问题，欢迎通过[issues](https://github.com/hzy46/Deep-Learning-21-Examples/issues)提出纠错或改进建议。
 
 ## 快速指引
 以下是各章代码详细的运行方法：

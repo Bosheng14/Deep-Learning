@@ -27,7 +27,7 @@
 11. CycleGAN与非配对图像转换
 
 本书包含的项目主要有三部分：第1～11章主要介绍CNN相关的项目，其中8~11章为GAN模型和它的几个重要变体；第12～17章主要介绍RNN、LSTM 相关的项目；第18～21章主要介绍强化学习相关的项目。
-···Java
+'''Java
 public static void main(String[]args){} //Java
 '''
 
